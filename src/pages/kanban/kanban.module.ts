@@ -1,5 +1,7 @@
 import { NgModule } from '@angular/core';
+import { TranslateModule } from '@ngx-translate/core';
 import { IonicPageModule } from 'ionic-angular';
+
 import { KanbanPage } from './kanban';
 
 @NgModule({
@@ -7,7 +9,11 @@ import { KanbanPage } from './kanban';
     KanbanPage,
   ],
   imports: [
-    IonicPageModule.forChild(KanbanPage),
+    IonicPageModule.forChild(KanbanPage), 
+    TranslateModule.forChild()
   ],
+  exports: [
+    KanbanPage
+  ]
 })
-export class KanbanPageModule {}
+export class KanbanPageModule { }
