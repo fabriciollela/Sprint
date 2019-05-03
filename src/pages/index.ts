@@ -10,4 +10,4 @@ export const Tab1Root = 'HomePage';
 export const Tab2Root = 'BacklogPage';
 export const Tab3Root = 'SprintsPage';
 export const Tab4Root = 'KanbanPage';
-export const Tab5Root = 'RelatoriosPage';
+export const Tab5Root = 'ReportsPage';
