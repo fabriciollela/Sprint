@@ -1,4 +1,4 @@
-# The Ionic Super Starter 🎮
+# Sprint APP
 
 <img src="https://github.com/fabriciollela/Sprint/blob/master/src/assets/imgs/logo.png" width="400" />
 
