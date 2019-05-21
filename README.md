@@ -1,6 +1,6 @@
 # Sprint APP
 
-<img src="https://github.com/fabriciollela/Sprint/blob/master/src/assets/imgs/logo.png" width="400" />
+<img src="https://github.com/fabriciollela/Sprint/blob/master/src/assets/img/appicon.png" width="400" />
 
 Projeto de criação de um aplicativo para gerenciamento de sprints.
 
